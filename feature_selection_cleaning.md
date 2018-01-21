@@ -25,5 +25,4 @@ Firstly I am going to share feature selection approaches which I generally like 
 
 Packages in R which I use for Feature selection in R - caret , mlbench, boruta !!
 
-Please share your favorite feature selection approaches in Machine Learning world ?
-47 Likes 47 Likes  
+
