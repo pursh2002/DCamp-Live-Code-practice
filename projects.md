@@ -1,0 +1,43 @@
+Here’s a nice list of 10 GREAT #DataScience projects to work on:
+
+1. Yourself - The best project you'll ever work on is you.
+Track your progress, apply what you've learned, and share your work. You deserve it! And remember, every master thinks like a beginner, they're always learning.
+
+⚠️ NOTE: The links provided will redirect you to a recommended Kaggle Kernel that I enjoyed. Use this as reference before starting on your project :)
+
+---Beginner---
+
+2. Pokemon - Weedle's Cave
+Python - https://lnkd.in/gcKWWQ2
+
+3. Titanic ML
+Python - https://lnkd.in/gafie9m
+R - https://lnkd.in/gRRa7HV
+
+4. Housing Prices Prediction
+Python - https://lnkd.in/gX2FSDk
+R - https://lnkd.in/ggFJSyd
+
+---Intermediate---
+
+5. Instacart Market Basket Analysis
+Python - https://lnkd.in/gkNaXqH
+R- https://lnkd.in/g2gthxu
+
+6. Quora Question Pairs
+Python - https://lnkd.in/gkNaXqH 
+
+7. Human Resource Analytics
+Python - https://lnkd.in/gVUPfWm
+R -https://lnkd.in/gHusQYX
+
+---Advanced---
+
+8. Analyzing Soccer Player Faces
+Python - https://lnkd.in/gUys_TS
+
+9. Recruit Restaurant Visitor Forecasting
+Python - https://lnkd.in/gjQvf74
+
+10. TensorFlow Speech Recognition
+Python - https://lnkd.in/g8SSPfW
