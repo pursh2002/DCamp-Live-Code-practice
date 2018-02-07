@@ -44,3 +44,4 @@ Python - https://lnkd.in/g8SSPfW
 
 
 https://medium.com/data-science-weekly-dsw/predicting-ms-admission-afbad9c5c599
+https://analyticsindiamag.com/top-5-ai-challenges-startups-programmers-participate-2018/
