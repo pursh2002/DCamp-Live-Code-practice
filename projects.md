@@ -41,3 +41,6 @@ Python - https://lnkd.in/gjQvf74
 
 10. TensorFlow Speech Recognition
 Python - https://lnkd.in/g8SSPfW
+
+
+https://medium.com/data-science-weekly-dsw/predicting-ms-admission-afbad9c5c599
