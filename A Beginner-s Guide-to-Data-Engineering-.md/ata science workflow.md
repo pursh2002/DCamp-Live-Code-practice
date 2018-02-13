@@ -41,3 +41,41 @@ Bring your model into production. Only models that are out generate business val
 
 P.S. LinkedIn has a limit on characters. 
 Here's Part 1: https://lnkd.in/g_cpY-W
+
+
+- - -
+Breakdown of Importance
+Linear Algebra (35%)
+Statistics & Probability (25%)
+Calculus (15%)
+Optimization & Algorithms (15%)
+Other (10%)
+
+➤ Linear Algebra
+Matrices, Vectors, Eigenvalues & Eigenvectors, Linear Transformations & Equations
+https://lnkd.in/gW6_F_3
+
+➤ Inferential Statistics
+Sampling Distribution, Central Limit Theorem, Hypothesis Testing, Types of Errors, Regression, ANOVA, Chi-Square, T-Test
+https://lnkd.in/gbh3aRj
+
+➤ Probability Theory
+Random Variables, Types of Distributions, Sampling, Confidence Intervals, Z Scores
+https://lnkd.in/gJ442c8
+
+➤ Basic Calculus
+https://lnkd.in/gEUFDaS
+
+➤ Linear Programming
+Formulating a Real Problem to a Mathematical Model
+https://lnkd.in/gGBpjaK
+
+➤ Optimization
+Gradient Algorithms & Objective Functions
+https://lnkd.in/g_e9sJu
+
+➤ Graph Theory
+https://lnkd.in/gYUgBhA
+
+➤ Data Structures
+https://lnkd.in/gT_8_Fc
