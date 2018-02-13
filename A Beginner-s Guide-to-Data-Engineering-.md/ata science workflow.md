@@ -20,3 +20,21 @@ Please kindly share it if you find this workflow useful! Tarry Singh, Han Xiao, 
 
 P.S. LinkedIn has a limit on characters. 
 Here's Part 2: https://lnkd.in/gFcGViR
+
+My machine learning/data science workflow that I've been practicing for years (Part 2):
+
+5. Model Building:
+
+Start with the simplest model e.g. for classification take linear models then use tree-models and then go to neural networks.
+
+6. Model Evaluation:
+
+Evaluate your model. Use simple split then cross-validation. MSE, RMSE for regression. Accuracy, precision, recall and F1 for classification...
+
+7. Operationalization:
+
+Bring your model into production. Only models that are out generate business value. Pickle your scikit-learn model or export your Tensorflow model. Create RESTful API for web applications. Embed it on your device if latency is important.
+
+
+P.S. LinkedIn has a limit on characters. 
+Here's Part 1: https://lnkd.in/g_cpY-W
