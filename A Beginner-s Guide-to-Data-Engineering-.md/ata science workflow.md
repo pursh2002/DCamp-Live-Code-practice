@@ -1,3 +1,4 @@
+by dat tran
 My machine learning/data science workflow that I've been practicing for years (Part 1):
 
 1. Scoping:
