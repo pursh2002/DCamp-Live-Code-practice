@@ -1,3 +1,4 @@
+https://blog.modeanalytics.com/resources-for-data-science-job-seekers/
 https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf
 
 by dat tran
