@@ -1,3 +1,5 @@
+https://sebastianraschka.com/pdf/manuscripts/model-eval.pdf
+
 by dat tran
 My machine learning/data science workflow that I've been practicing for years (Part 1):
 
