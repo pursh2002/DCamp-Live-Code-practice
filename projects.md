@@ -1,3 +1,5 @@
+https://goo.gl/o8oNdr ---Patient impact predictor–the new suggestive guidance in healthcare.ai
+
 Here’s a nice list of 10 GREAT #DataScience projects to work on:
 
 1. Yourself - The best project you'll ever work on is you.
