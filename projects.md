@@ -47,3 +47,15 @@ Python - https://lnkd.in/g8SSPfW
 
 https://medium.com/data-science-weekly-dsw/predicting-ms-admission-afbad9c5c599
 https://analyticsindiamag.com/top-5-ai-challenges-startups-programmers-participate-2018/
+
+Practise projects using PYTHON in Different domains, include Stock Market, Cyber Security, Internet, Bank etc.
+
+1.) Data Analysis of Stock Market  - https://lnkd.in/fUHZzhQ
+
+2.) Cyber Security Project - https://lnkd.in/fGqrhRg
+
+3.) NLP Grid Search and Pipeline, Spam Detection and Sentiment Analysis. -  https://lnkd.in/fFh7AYu
+
+4.) LinearRegression VS XgBoost - https://lnkd.in/fMV3WMm
+
+5.) Bank Loan Delinquency - https://lnkd.in/fBqaeXy
