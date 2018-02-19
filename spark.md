@@ -1,4 +1,4 @@
-# How to get started with Apache Spark for Data Science? 
+# How to get started with Apache Spark for Data Science? by Favio Vázquez
 
 If you follow me you know I'm a Spark lover. For me it was an inspiration to go into the field of distributed machine learning and data science. I have some commits accepted in the code so I'm very happy about that too :)
 
