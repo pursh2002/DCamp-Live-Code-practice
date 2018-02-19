@@ -40,3 +40,7 @@ https://www.dataquest.io/course/sql-joins-relations
 SQL Advanced (coming soon)
 https://www.dataquest.io/course/postgres-for-data-engineers
 https://www.dataquest.io/course/postgres-for-data-engineers
+https://www.kdnuggets.com/2018/02/calculating-customer-lifetime-value-sql-example.html
+https://www.kdnuggets.com/2017/08/write-better-sql-queries-definitive-guide-part-1.html
+https://www.kdnuggets.com/2017/12/guide-customer-retention-analysis-sql.html
+
