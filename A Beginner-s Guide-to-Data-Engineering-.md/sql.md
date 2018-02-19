@@ -1,3 +1,4 @@
+http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf---paper
 How to get started with SQL for Data Science? 
 
 To be an effective data scientist, you must know how to wrangle and extract data from these databases using a language called SQL (Structured Query Language). 
