@@ -33,3 +33,10 @@ So here it is:
 - https://lnkd.in/gDsUBj7
 - https://lnkd.in/g4ibYJD
 - https://lnkd.in/gPxkzfb
+
+https://www.kdnuggets.com/2018/02/want-job-data-learn-this.html?utm_content=buffere9aff&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+https://www.dataquest.io/course/sql-fundamentals
+https://www.dataquest.io/course/sql-joins-relations
+SQL Advanced (coming soon)
+https://www.dataquest.io/course/postgres-for-data-engineers
+https://www.dataquest.io/course/postgres-for-data-engineers
