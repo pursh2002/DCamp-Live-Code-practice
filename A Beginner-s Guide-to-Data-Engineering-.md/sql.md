@@ -45,3 +45,39 @@ https://www.kdnuggets.com/2018/02/calculating-customer-lifetime-value-sql-exampl
 https://www.kdnuggets.com/2017/08/write-better-sql-queries-definitive-guide-part-1.html
 https://www.kdnuggets.com/2017/12/guide-customer-retention-analysis-sql.html
 
+
+Here are some great SQL Resources to take your #DataScience game to the next level:
+
+- - -
+👉🏻 START HERE - Why SQL by David Langer (1min)
+https://lnkd.in/gJASSAM
+
+1. Learn the Basics
+DataCamp – Intro to SQL for Data Science
+https://lnkd.in/gyb4fAr
+W3Schools – SQL Tutorial
+https://lnkd.in/gxkbRzW
+SQLZoo
+https://sqlzoo.net/
+SQLTeaching
+https://lnkd.in/gtwvazf
+SQLBolt – Interactive Tutorial
+https://sqlbolt.com/
+
+2. Tackle these Analytical Use-Case Problems
+Mode – SQL Business Analytics Training
+https://lnkd.in/gM8nMNP
+Kaggle – SQL Scavenger Hunt
+https://lnkd.in/gU6q7wf
+
+3. SQL and the Interviews
+SQL in a NutShell – Basic Real World Scenarios
+https://lnkd.in/gHJeyQA
+Refresh yourself with this SQL Recap
+https://lnkd.in/gmfwN8y
+How to Ace Data Science Interviews – SQL Style
+https://lnkd.in/gEEAAKn
+45 Essential SQL Interview Questions and Answers
+https://lnkd.in/gqUHGfP
+
+- - -
