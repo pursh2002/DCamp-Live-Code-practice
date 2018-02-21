@@ -1,0 +1,28 @@
+How to get started with Bayesian Statistics for Data Science? 
+
+In statistical theory there are mainly two ways of thinking about probability, the classical and more common is the frequentist that establishes that probabilities are related to the frequency of outcomes over a long series of trials. The key in this way of thinking is repeatability of an experiment. 
+
+On the other hand, the Bayesian thinking is that probability expresses a degree of belief in a proposition, based on the available knowledge of the experimenter. Here the information is the key. The fundamental idea behind Bayesian statistics is the Bayes Theorem, first introduced by Rev. Thomas Bayes, in a posthumously published paper in 1763.
+
+So why is that important for Data Science? 
+
+1. Bayesian thinking facilitates a common-sense interpretation of statistical conclusions.
+2. The probabilities are constantly updated in response to new data, and at any given instant provide a snapshot of the best current understanding.
+3. Most of ML and DL models are based on Bayesian Thinking.
+
+So here are some courses ;):
+
+1. Coursera:
+
+- https://lnkd.in/ezs8XgX
+- https://lnkd.in/eBbz2QR
+
+2. Books:
+
+- Bayesian Reasoning and Machine Learning - David Barber. 
+
+https://lnkd.in/epZ33tg
+
+- Think Bayes:
+
+https://lnkd.in/eDFBiFT
