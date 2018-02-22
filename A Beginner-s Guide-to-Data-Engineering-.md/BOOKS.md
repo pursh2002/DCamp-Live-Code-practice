@@ -45,3 +45,5 @@ Natural Language Processing with Python
 https://lnkd.in/gmuQcmt
 The Data Science Handbook – Advice & Insights from Data Scientists
 https://lnkd.in/g8t7hk9
+
+https://github.com/revolunet/PythonBooks
