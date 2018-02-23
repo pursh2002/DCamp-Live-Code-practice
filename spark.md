@@ -1,4 +1,5 @@
 https://data-flair.training/blogs/what-is-spark/
+https://databricks.com/blog/2017/02/16/processing-trillion-rows-per-second-single-machine-can-nested-loop-joins-fast.html?utm_content=buffer0f73f&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer
 
 # How to get started with Apache Spark for Data Science? by Favio Vázquez
 
