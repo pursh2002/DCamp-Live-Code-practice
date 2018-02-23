@@ -1,0 +1,12 @@
+The eval function lets a python program run python code within itself. 
+Let me explain you the entire code :) 
+1.First we take input of how many instruction user will enter. 
+2.We declare an array. 3.
+Then loop starts ,which will run n times. 
+4.s=input().split()....... it takes multiple input at one go.
+(Remember it takes input in string format, you need to convert it according to your use) What split does is explicitly specify split(‘ ‘) because split() uses any whitespace characters as delimiter as default. 
+5.As per the format of question the first item of 's' will be the command i.e insert ,append , print etc. 
+6.And starting from item 1 onwards we will get our argument eg. insert 0 1... which means item0 which is our command viz "insert" and item one onwards we get our arguments viz 0,1 . 
+7.Now we check whether or not the command is "Print".I f it is "print" we simply print the list. else 
+8.we join our command and arguments . so our final command becomes insert(0,1). (refer point 6) 
+9.Now, eval run l.insert(0,1) within itself what is happening in eval("l."+cmd) is: l(which is our list) we concat list with the command , and we all know the use of'.' l.command(attributes)
