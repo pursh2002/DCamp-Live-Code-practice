@@ -10,3 +10,18 @@ Then loop starts ,which will run n times.
 7.Now we check whether or not the command is "Print".I f it is "print" we simply print the list. else 
 8.we join our command and arguments . so our final command becomes insert(0,1). (refer point 6) 
 9.Now, eval run l.insert(0,1) within itself what is happening in eval("l."+cmd) is: l(which is our list) we concat list with the command , and we all know the use of'.' l.command(attributes)
+
+L = []
+for _ in range(0, int(input())):
+    user_input = input().split(' ')
+    command = user_input.pop(0)
+    if len(user_input) > 0:
+        if 'insert' == command:
+            eval("L.{0}({1}, {2})".format(command, user_input[0], user_input[1]))
+        else:
+            eval("L.{0}({1})".format(command, user_input[0]))
+    elif command == 'print':
+        print (L)
+    else:
+        eval("L.{0}()".format(command))
+        
