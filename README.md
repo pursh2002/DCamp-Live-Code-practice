@@ -1,6 +1,6 @@
 # DataCamp-Live-Code-practice
 
-study material/practice Notes by Dr Purshottam
+Study material/practice Notes by Dr Purshottam
 
 * https://www.datacamp.com
 * https://github.com/pursh2002/datacamp_facebook_live_nlp 
