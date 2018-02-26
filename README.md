@@ -9,4 +9,4 @@ Study material/practice Notes by Dr Purshottam
 * https://www.udemy.com/learning-python-for-data-analysis-and-visualization/#%2F
 * https://data-flair.training/blogs/python-variables-and-data-types/?subscribe=success#blog_subscription-2
 * https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
-* 
+* https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6?utm_source=OCW&utm_medium=CHP&utm_campaign=OCW
