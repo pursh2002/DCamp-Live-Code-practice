@@ -1,3 +1,12 @@
+
+* https://www.datacamp.com/projects
+* https://www.datacamp.com/community/blog/12-useful-data-science-walkthroughs
+* https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
+* https://analyticsindiamag.com/popular-data-science-projects-for-aspiring-data-scientists/
+* https://elitedatascience.com/machine-learning-projects-for-beginners
+
+
+
 https://goo.gl/o8oNdr ---Patient impact predictor–the new suggestive guidance in healthcare.ai
 
 Here’s a nice list of 10 GREAT #DataScience projects to work on:
