@@ -47,3 +47,4 @@ The Data Science Handbook – Advice & Insights from Data Scientists
 https://lnkd.in/g8t7hk9
 
 https://github.com/revolunet/PythonBooks
+https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
