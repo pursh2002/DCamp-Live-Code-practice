@@ -48,3 +48,4 @@ https://lnkd.in/g8t7hk9
 
 https://github.com/revolunet/PythonBooks
 https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
+http://www.everythingai.co.in/2018/03/04/numpy-python/
