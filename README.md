@@ -18,3 +18,4 @@ Study material/practice Notes by Dr Purshottam
 * https://tech.io/explore
 * https://coderbyte.com/editor/guest:First%20Factorial:Python
 * https://www.fullstackpython.com/databases.html
+* https://cs.stanford.edu/people/widom/DB-mooc.html
