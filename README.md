@@ -22,3 +22,5 @@ Study material/practice Notes by Dr Purshottam
 * https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c
 * https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
 * https://automatetheboringstuff.com
+* http://www.diveintopython3.net
+* http://openbookproject.net/thinkcs/python/english3e/
