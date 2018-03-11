@@ -19,3 +19,5 @@ Study material/practice Notes by Dr Purshottam
 * https://coderbyte.com/editor/guest:First%20Factorial:Python
 * https://www.fullstackpython.com/databases.html
 * https://cs.stanford.edu/people/widom/DB-mooc.html
+* https://codeburst.io/15-free-ebooks-to-learn-python-c299943f9f2c
+* https://codeburst.io/100-free-resources-to-learn-full-stack-web-development-5b40e0bdf5f2
