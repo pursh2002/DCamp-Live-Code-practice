@@ -17,3 +17,4 @@ Study material/practice Notes by Dr Purshottam
 * https://projecteuler.net/archives
 * https://tech.io/explore
 * https://coderbyte.com/editor/guest:First%20Factorial:Python
+* https://www.fullstackpython.com/databases.html
