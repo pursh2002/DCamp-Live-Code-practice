@@ -1,3 +1,6 @@
+
+http://houseofbots.com/news-detail/2280-4-60-free-books-on-big-data-data-science-data-mining-machine-learning-python-r-and-more
+
 https://github.com/achinnasamy/bigdata
 Here is a list of free books for #DataScience & #MachineLearning that are worth checking out: 
 
