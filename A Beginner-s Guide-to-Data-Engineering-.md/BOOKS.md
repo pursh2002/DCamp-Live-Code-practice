@@ -52,3 +52,50 @@ https://lnkd.in/g8t7hk9
 https://github.com/revolunet/PythonBooks
 https://www.labri.fr/perso/nrougier/from-python-to-numpy/#id7
 http://www.everythingai.co.in/2018/03/04/numpy-python/
+
+Here is a list of free books for #DataScience & #MachineLearning that are worth checking out (Part 2): 
+
+- - - 
+📕 Data Visualization 
+D3 Tips and Tricks
+https://lnkd.in/gjfANeR 
+Interactive Data Visualization for the Web 
+https://lnkd.in/gnWStrh 
+
+📗 Machine Learning 
+A Course in Machine Learning (CIML) 
+https://lnkd.in/gcg4xVb 
+Real World Active Learning 
+https://lnkd.in/g8MxZ3e 
+Machine Learning - The Complete Guide 
+https://lnkd.in/gv_5hJZ 
+A First Encounter with Machine Learning 
+https://lnkd.in/gYvjGrZ 
+
+📘 Data Science 
+Data Science from Scratch 
+https://lnkd.in/gf5KU24 
+Data Science for Dummies 
+https://lnkd.in/g8gmBvN 
+Hands on Machine Learning and Big Data 
+https://lnkd.in/g_eQpP5 
+Art of Data Science 
+https://lnkd.in/g9fiXqS 
+
+📙 Programming 
+Learn Python, Break Python 
+https://lnkd.in/g3TPF_w 
+Python Cookbook 
+https://lnkd.in/gtvHYii 
+Advanced R 
+http://adv-r.had.co.nz/ 
+The R Inferno 
+https://lnkd.in/gBTUF5r 
+
+📒 Data Mining 
+Mining of Massive Datasets 
+http://www.mmds.org/ 
+A Programmer's Guide to Data Mining 
+https://lnkd.in/gED7MFy 
+Data Mining and Analysis 
+https://lnkd.in/gqi8JUu 
