@@ -25,3 +25,4 @@ Study material/practice Notes by Dr Purshottam
 * http://www.diveintopython3.net
 * http://openbookproject.net/thinkcs/python/english3e/
 * https://data-flair.training/blogs/python-applications/
+* https://www.youtube.com/user/DrNoureddinSadawi/videos
