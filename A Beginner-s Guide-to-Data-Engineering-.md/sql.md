@@ -1,4 +1,5 @@
 https://www.fullstackpython.com/databases.html
+https://www.fullstackpython.com/databases.html
 http://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf---paper
 How to get started with SQL for Data Science? 
 
