@@ -1,1 +1,17 @@
 https://www.analyticsvidhya.com/blog/2017/02/basic-probability-data-science-with-examples/
+
+Linear Regression is seen as the hello world of machine learning algorithms. It has been around for more than two centuries and still is fundamental to many of the innovations. It is simple but can teach a lot about machine learning.
+
+The main idea in linear regression is to find the weights(coefficients) of input variables.Solving for the coefficients of linear regression can give a peek into the different branches within statistics. If you ever tried to code a linear regression from scratch(I highly recommend all the aspiring data scientists to do so), you will come across multiple ways to find coefficients including Probabilistic method, Linear algebra method, Optimization method(gradient descent), Bayesian method etc.
+
+Solving for coefficients using:
+
+-Probabilistic method can help in understanding binomial, poisson, exponential or practically any other probability distribution based regression.
+
+-Linear Algebra method will help in understanding the computational efficiency of matrix multiplications and will help in further exploring PCA and SVD.
+
+-Optimization method will serve as the building block for deep learning and deep neural networks.
+
+-Bayesian method will give an introduction into the Bayesian Statistics world.
+
+Hope this helps!
