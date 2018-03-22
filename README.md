@@ -2,6 +2,7 @@
 
 Study material/practice Notes by Dr Purshottam
 
+* https://www.programiz.com/python-programming/iterator
 * https://www.datacamp.com
 * https://github.com/micromata/awesome-javascript-learning
 * https://github.com/pursh2002/datacamp_facebook_live_nlp 
