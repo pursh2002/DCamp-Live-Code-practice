@@ -30,3 +30,16 @@ https://www.linkedin.com/pulse/why-how-when-apply-feature-selection-sudharsan-as
 
 https://towardsdatascience.com/data-preprocessing-for-non-techies-feature-exploration-and-engineering-f1081438a5de
 https://www.kdnuggets.com/2018/03/5-things-know-about-machine-learning.html
+
+Selection of variables is an important (one of the key) topics in both classical statistics and modern data science. I noticed you often mention stepwise regression in your posts. Stop and learn why it is considered the worst method in statistics for that purpose, then decide. If you feel your knowledge in statistics is not sufficient to decide, just forget this method. 
+
+Professor Frank Harrell (R users recognize this name immediately, for sure) summarizes it on Twitter: 
+
+@f2harrell
+"Statistical quote of the day.  Stepwise variable selection has done incredible damage to science.  How did we statisticians let this happen?"
+
+The following few links (more of them are available) highlight the issues well. And, however I don't think we should "hate" the method, like mentioned below, we definitely should be aware of its strong drawbacks.
+
+https://lnkd.in/e8PiiH8
+https://lnkd.in/egc9jsA
+https://lnkd.in/eSWwsCD
