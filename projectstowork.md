@@ -1,4 +1,4 @@
-
+* https://blog.statsbot.co/data-scientist-resume-projects-806a74388ae6
 * https://www.datacamp.com/projects
 * https://www.datacamp.com/community/blog/12-useful-data-science-walkthroughs
 * https://www.analyticsvidhya.com/blog/2016/10/17-ultimate-data-science-projects-to-boost-your-knowledge-and-skills/
