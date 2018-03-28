@@ -28,3 +28,4 @@ Study material/practice Notes by Dr Purshottam
 * http://openbookproject.net/thinkcs/python/english3e/
 * https://data-flair.training/blogs/python-applications/
 * https://www.youtube.com/user/DrNoureddinSadawi/videos
+* https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.r9bz=Uw
