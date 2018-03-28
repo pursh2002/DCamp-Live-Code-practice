@@ -1,5 +1,6 @@
 
 # "json.dumps()
+https://realpython.com/python-tricks/
 
 
 ```python
