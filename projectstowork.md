@@ -68,3 +68,5 @@ Practise projects using PYTHON in Different domains, include Stock Market, Cyber
 4.) LinearRegression VS XgBoost - https://lnkd.in/fMV3WMm
 
 5.) Bank Loan Delinquency - https://lnkd.in/fBqaeXy
+
+* https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7
