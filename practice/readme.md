@@ -1,1 +1,3 @@
-https://elitedatascience.com/machine-learning-projects-for-beginners?utm_content=bufferfa5c8&utm_medium=social&utm_source=facebook.com&utm_campaign=bufferhttp://pythonforengineers.com/build-a-twitter-analytics-app-using-python/
+https://elitedatascience.com/machine-learning-projects-for-beginners?utm_content=bufferfa5c8&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer
+
+http://pythonforengineers.com/build-a-twitter-analytics-app-using-python/
