@@ -1,3 +1,8 @@
+Title: Imbalanced big data classification: A distributed implementation of SMOTE
+Library: ACM DL Digital Library
+Conference: 19th International Conference of Distributed Computing and Networking
+Paper URL: https://lnkd.in/fnD6dZE
+
 https://www.analyticsvidhya.com/blog/2016/10/investigation-on-handling-structured-imbalanced-datasets-with-deep-learning/
 Q4. You are given a data set on cancer detection. You’ve build a classification model and achieved an accuracy of 96%. 
 Why shouldn’t you be happy with your model performance? What can you do about it?
