@@ -2,6 +2,7 @@
 
 Study material/practice Notes by Dr Purshottam
 
+* https://github.com/llSourcell/Learn_Computer_Science_in_5_Months
 * https://www.programiz.com/python-programming/iterator
 * https://www.datacamp.com
 * https://github.com/micromata/awesome-javascript-learning
