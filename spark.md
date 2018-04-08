@@ -31,3 +31,5 @@ https://lnkd.in/ehuwaR6
 - https://lnkd.in/evTsuWg
 - https://lnkd.in/eXmkFJZ
 - https://lnkd.in/e3v_azS
+
+https://nbviewer.jupyter.org/github/anindya-saha/Data-Science-with-Spark/blob/master/predict-us-census-income-classification/predict-us-census-income.ipynb
