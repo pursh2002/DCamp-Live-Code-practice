@@ -1,3 +1,4 @@
+https://www.datasciencecentral.com/profiles/blogs/dealing-with-imbalanced-datasets
 Title: Imbalanced big data classification: A distributed implementation of SMOTE
 Library: ACM DL Digital Library
 Conference: 19th International Conference of Distributed Computing and Networking
