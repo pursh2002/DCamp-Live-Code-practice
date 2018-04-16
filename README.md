@@ -32,3 +32,4 @@ Study material/practice Notes by Dr Purshottam
 * https://www.datacamp.com/community/tutorials/learn-data-science-resources-for-python-r#gs.r9bz=Uw
 * https://github.com/norvig/pytudes#pytudes-index-of-jupyter-ipython-notebooks
 * https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/
+* https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python
