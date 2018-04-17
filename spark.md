@@ -33,3 +33,5 @@ https://lnkd.in/ehuwaR6
 - https://lnkd.in/e3v_azS
 
 https://nbviewer.jupyter.org/github/anindya-saha/Data-Science-with-Spark/blob/master/predict-us-census-income-classification/predict-us-census-income.ipynb
+
+https://towardsdatascience.com/how-to-use-pyspark-on-your-computer-9c7180075617
