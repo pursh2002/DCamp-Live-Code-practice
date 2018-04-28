@@ -126,3 +126,5 @@ https://lnkd.in/gTVtA28
 
 10- Fundamentals of Deep Learning
 (Nicholas Locascio, Nikhil Buduma,2017) https://lnkd.in/gYb3cZR
+
+https://arxiv.org/pdf/1709.02840.pdf
