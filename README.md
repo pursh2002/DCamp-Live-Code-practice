@@ -34,3 +34,4 @@ Study material/practice Notes by Dr Purshottam
 * https://qz.com/1120344/200-universities-just-launched-600-free-online-courses-heres-the-full-list/
 * https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python
 * https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567
+* https://github.com/jakevdp/PythonDataScienceHandbook
