@@ -61,3 +61,38 @@ https://lnkd.in/gXZwHFY
 
 10. Market Basket Analysis (Analytics Vidhya)
 https://lnkd.in/gdvstQU
+
+Here is a list of 10 Essential Algorithms that you should know to understand the basics of hashtag#MachineLearning: 
+
+- - -
+1. Logistic Regression
+https://lnkd.in/gJ2BwhD
+
+2. Linear Regression
+https://lnkd.in/gdZDbT5
+
+3. Decision Trees
+https://lnkd.in/gwadA-p
+
+4. Random Forests
+https://lnkd.in/gRYHcvt
+
+5. Neural Networks
+https://lnkd.in/gZQhWyv
+
+6. Bayesian Techniques
+https://lnkd.in/gY3qVYP
+
+7. Support Vector Machines
+https://lnkd.in/gWJKRyn
+
+8. Gradient Boosting Machine
+https://lnkd.in/gv85yDV
+
+9. K-Nearest Neighbors
+https://lnkd.in/gsiyqcM
+
+10. Regularized Linear Models
+https://lnkd.in/g3fn3cr
+
+- - -
